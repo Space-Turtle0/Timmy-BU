@@ -1,0 +1,6 @@
+archive
+.vscode
+.github
+.example.env
+TimmyVenv
+pipfuckaround
